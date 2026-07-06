@@ -107,7 +107,7 @@ export const resumeConfig: ResumeConfig = {
   experiences: [
     {
       id: 'efor',
-      company: { en: 'Efor Group', fr: 'Efor Group' },
+      company: { en: 'Efor Group (position at bioMérieux)', fr: 'Efor Group (mission chez bioMérieux)' },
       role: { en: 'Consultant', fr: 'Consultant' },
       type: { en: 'Permanent', fr: 'CDI' },
       period: { en: 'Nov 2025 - Jan 2026', fr: 'Nov 2025 - Jan 2026' },
